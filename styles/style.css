@@ -38,7 +38,7 @@
   
 }
 
-.logo_place_header {
+.logo__place_header {
   height: 32px;
   width: 183px;
   z-index: 2;
@@ -340,7 +340,7 @@
 }
 
 
-.section-title_theme_dark {
+.section__title_theme_dark {
   display: flex;
   width: 60%;
   justify-content: center;
@@ -357,7 +357,7 @@
 
 }
 
-.section-subtitle_theme_dark {
+.section__subtitle_theme_dark {
   display: flex;
   width: 60%;
   justify-content: center;
