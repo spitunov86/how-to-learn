@@ -1,0 +1,13 @@
+@keyframes opacity-link {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0.5;
+    }
+}
+
+.links:hover {
+    animation: opacity-link 0.2s linear forwards;
+    
+}
